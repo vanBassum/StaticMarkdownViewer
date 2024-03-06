@@ -1,7 +1,7 @@
 
 $(document).ready(function () {
     const fileList = $("#file-list");
-    const cardContainer = $("#cardContainer");
+    const cardContainer = $("#fileContent");
 
     // Fetch markdown files
     fetchMarkdownFiles();

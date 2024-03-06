@@ -1,17 +1,24 @@
-
 body {
-    background-color: #e2e2e2; /* Dark gray background color */
-  }
+  background-color: #e2e2e2; /* Dark gray background color */
+}
 
-  .vertical-center {
-    margin: auto; /* Vertically center the title */
-  }
+.vertical-center {
+  margin: auto; /* Vertically center the title */
+}
 
-  pre.language-mermaid {
-    margin-top: 1em; /* Add space above the image */
-    margin-bottom: 1em; /* Add space below the image */
-  }
-  #cardContainer {
-    display: flex;
-    flex-direction: column; /* Set the direction to top-to-bottom */
+
+#sidebar {
+  max-width: 300px;
+}
+
+#fileContent {
+  display: flex;
+  flex-direction: column; /* Set the direction to top-to-bottom */
+  justify-content: left; 
+  align-items: left;    
+}
+
+img {
+  max-width: 50%;
+  height: auto;
 }
