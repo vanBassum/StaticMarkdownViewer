@@ -28,9 +28,8 @@ Contributions and ideas for StaticMarkdownViewer are highly appreciated! Please 
 Please note that StaticMarkdownViewer is still under development. Some features may be incomplete or subject to change. We appreciate your patience and feedback as we work towards improving and enhancing the application.
 
 **To do list**
-
--[ ] Work on the aestethics.
--[ ] Add a dark and light mode.
+- [ ] Work on the aestethics.
+- [ ] Add a dark and light mode.
 
 
 
