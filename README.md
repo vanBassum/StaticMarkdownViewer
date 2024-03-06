@@ -30,6 +30,7 @@ Please note that StaticMarkdownViewer is still under development. Some features 
 **To do list**
 - [ ] Work on the aestethics.
 - [ ] Add a dark and light mode.
-
+- [ ] Fix relative links.
+- [ ] Add example link to https://vanbassum.github.io/StaticMarkdownViewer
 
 
