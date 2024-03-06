@@ -1,0 +1,3 @@
+const jsonFiles = [
+	"Home.md"
+];
